@@ -2,7 +2,7 @@
 Behold! Bamazon is an ingenious knock-off of Amazon! 
 
 Using Node, the user can invoke the customer function. This will call up a table displaying Bamazon's database, and ask what item you'd like to purchase:
-![Screenshot](https://github.com/benjaminmiller2/bamazon/images/Screen_Shot_One.png)
+![Screenshot](/images/Screen_Shot_One.png)
 
 Here we have selected item # 10, the Johnny Walker Whiskey. Once the selection has been made, Bamazon will ask how many items you'd like to purchase. Here the user has chosen to purchase 22 items.
 
